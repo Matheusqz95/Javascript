@@ -19,7 +19,7 @@ padding-bottom: 30px;
 section {
   background: white;
   border-radius: 8px;
-  padding: 180px;
+  padding: 16px;
   width: 500px;
   margin: auto;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.192);
@@ -30,4 +30,8 @@ footer {
   color: white;
   text-align: center;
   font-style: italic;
+}
+div {
+  text-align: center;
+  padding: 10px;
 }
